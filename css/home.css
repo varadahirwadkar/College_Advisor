@@ -1,0 +1,42 @@
+table, th, td {
+    border: 1px solid black;
+	border: none;
+	
+}
+   
+            body{
+            background: rgb(ff,ff,ff);
+            font-family: Arial, Helvetica Neue, sans-serif;
+            position: relative !important;
+           
+            }
+            h1{
+                text-align: center;
+                color: aqua;
+            }
+            button{
+                background: grey;
+                border: none;
+                color:  white;
+                font-size: 20px;
+                cursor: pointer;
+            }
+           
+ .tab{
+	 left: 0;
+ }
+	 .mar{
+		width:25%;
+        right: 0;		
+	 }
+   .label {
+	 color: #fff;
+	 margin-right: 0px;
+	 text-align: center;
+	 line-height: 50px;
+     height: 50px;
+	 
+	 }  ul label:hover{
+  		background-color:rgb(112, 112, 114);
+  			}
+	

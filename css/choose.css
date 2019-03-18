@@ -1,0 +1,50 @@
+
+input[type="number"]{
+outline: none;
+    font-size: 15px;
+    font-weight: 400;
+    color: #9999;
+    padding: 9px 5px 5px 20px;
+    border-bottom:1px solid #9999;
+    width: 25%;
+ 
+    display: inline-block;
+}	
+input[type="submit"]{
+	   background: #008000;
+    color: #fff;
+    font-size: 20px;
+    padding: 0.3em 0.2em;
+    
+    font-weight: 500;
+    transition: 0.5s all;
+  
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+input[type="submit"]:hover {
+    background: #80ced6;
+    transition: 0.5s all;
+	
+
+}
+.footer {
+ clear: both;
+    position: relative;
+    z-index: 1;
+    height: 8em;
+    margin-top: 20em;
+  
+}
+
+left:after{
+	clear:both;
+	display:block;
+	content:"";
+}
+
+

@@ -1,0 +1,106 @@
+.userimg{
+ border:2px solid black;
+ border-radius:50%;
+ height:80%;
+}
+.image{
+ height:40%;	
+ border-bottom:2px solid black;
+ width:30%;
+ float:left;
+}
+.txt{
+border-bottom:2px solid black;
+width:70%;
+height:40%;
+margin-left:30%;    
+}
+
+.item{
+
+height:65%;
+width:65%;
+
+}
+.tabcontent table
+{
+ background-color: rgba(200,200,200,0.4);
+ text-align:left;
+}
+th{
+ 
+}
+p2{
+margin-left:30px;
+}
+p3{
+font-family: 'Comic Sans MS', arial;
+font-size:18px;
+}
+p4{
+ font-size:15px;
+}
+p5{
+ font-size:12px;
+}
+
+
+.round-button {
+    display:block;
+    width:30px;
+    height:30px;
+    line-height:50px;
+    border: 2px solid #f5f5f5;
+    border-radius: 50%;
+    color:#f5f5f5;
+    text-align:center;
+    background: transparent;
+    font-size:20px;
+}
+
+.round-button:hover {
+    background: gray;
+}
+
+
+.tb{
+height:9%;
+background-color:white;
+}
+/* Style tab links */
+.tablink {
+    
+    size:20%;
+    color: black;
+    float: right;
+    border:none;
+    outline: none;      
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 15%;
+}
+
+.tablink:hover {
+    background-color: #476884;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 50%;
+}
+
+#Cart {
+    background-color: rgba(172, 172, 134, 1);
+}
+
+#History 
+{
+	background-color: #acac86;
+	}
+
+
+ 
